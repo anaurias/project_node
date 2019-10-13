@@ -1,6 +1,10 @@
 # project_node
 Projeto Node usando migrations 
 
+yarn init -y  
+
+yarn add express
+
 yarn add sequelize
 
 yarn add sequelize add -D /*dependencia de desenvolvimento*/
